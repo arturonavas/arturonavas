@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ░▒▓█ NEKOKO-INSPIRED PROFILE █▓▒░ -->
 <div align="center">
   
@@ -60,4 +60,4 @@
   <br><sub>"𝘾𝙤𝙙𝙚𝙖𝙣𝙙𝙤 𝙝𝙖𝙘𝙞𝙖 𝙚𝙡 𝙛𝙪𝙩𝙪𝙧𝙤 𝙘𝙤𝙣𝙚" 🌌</sub>
 </div>
 </div>
-```
+
