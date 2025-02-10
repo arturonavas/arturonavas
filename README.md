@@ -29,11 +29,12 @@
   <img src="https://img.shields.io/badge/Python-91d7e3?style=for-the-badge&logo=python&logoColor=1e1e2e">
   <img src="https://img.shields.io/badge/Kali Linux-ee99a0?style=for-the-badge&logo=kalilinux&logoColor=1e1e2e">
   <img src="https://img.shields.io/badge/Bash-a6da95?style=for-the-badge&logo=gnu-bash&logoColor=1e1e2e">
-  <img src="https://img.shields.io/badge/Redesf5a97f?style=for-the-badge&logo=cisco&logoColor=1e1e2e">
+  <img src="https://img.shields.io/badge/Redes-f5a97f?style=for-the-badge&logo=cisco&logoColor=1e1e2e">
 </p>
 
 ### ✧･ﾟ: *✧ 𝙼𝚄𝚂𝙸𝙲𝙰 *:･ﾟ✧
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e&text=8aadf4&bars=91d7e3&width=100%)]
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e)
+
 
 ### ✧･ﾟ: *✧ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾 *:･ﾟ✧
 <p align="center">
