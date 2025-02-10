@@ -15,13 +15,10 @@
    ❖ 𝙋𝙖𝙨𝙞𝙤𝙣𝙚𝙨: ☕ 𝘾𝙖𝙛é 𝙘𝙤𝙣 𝙝𝙪𝙚𝙡𝙡𝙖𝙨 𝙙𝙚 𝙤𝙯𝙤 & 𝙂𝙖𝙩𝙤𝙨 𝙘𝙞𝙗𝙚𝙧𝙥𝙪𝙣𝙠
 </pre>
 
-<div align="left">
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-<div align="right">
 [![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&layout=compact&theme=radical&hide_border=true&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
