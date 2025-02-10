@@ -1,13 +1,10 @@
 
 <!-- ASCII HACKER ART -->
 <pre align="center">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣾⣿⣿⣿⣿⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿[̲̅a̲̅][̲̅r̲̅][̲̅t̲̅][̲̅u̲̅][̲̅r̲̅][̲̅o̲̅]⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣸⣿⣿⣿⣿⠟⠛⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠻⣿⣿⣿⣿⡄⠀⠀⠀⠀
-⠀⠀⠀⢀⣿⣿⣿⣿⣏⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣹⣿⣿⣿⣿⡀⠀⠀⠀
-⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀
-⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀
+ ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
+⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿⣿  
+⣿⣿⣿⣿⣿⠃⠀⠀(◕ᴗ◕✿)⠀⠀⠀♡𓂃 ࣪ ˖
+░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░  
 </pre>
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
@@ -20,10 +17,16 @@
    ❖ 𝙋𝙖𝙨𝙞𝙤𝙣𝙚𝙨: ☕ 𝘾𝙖𝙛é 𝙘𝙤𝙣 𝙝𝙪𝙚𝙡𝙡𝙖𝙨 𝙙𝙚 𝙤𝙯𝙤 & 𝙂𝙖𝙩𝙤𝙨 𝙘𝙞𝙗𝙚𝙧𝙥𝙪𝙣𝙠
 </pre>
 
-### 📈 𝔼𝕤𝕥𝕒𝕕í𝕤𝕥𝕚𝕔𝕒𝕤 𝕔𝕠𝕟 ℂ𝕒𝕥𝕡𝕡𝕦𝕔𝕔𝕚𝕟
+<p align="left">
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
+<p align="right">
 [![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&layout=compact&theme=radical&hide_border=true&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
+
 
 ### 🗝️ 𝕋𝕖𝕔𝕟𝕠𝕝𝕠𝕘í𝕒𝕤
 <p align="center">
@@ -34,7 +37,8 @@
   <img src="https://img.shields.io/badge/SQL Injection-a6da95?style=for-the-badge&logo=sqlite&logoColor=1e1e2e">
 </p>
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gradient0.png" width="100%">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
+
 
 ### 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕠
 <p align="center">
@@ -51,6 +55,6 @@
 
 <!-- FOOTER CATPPUCCIN -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/trans.png" width="200">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
   <br><sub>𝒯𝒽𝑒𝓂𝑒 𝒷𝓎 <a href="https://github.com/catppuccin">Catppuccin</a></sub>
 </div>
