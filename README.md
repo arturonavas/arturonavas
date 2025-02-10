@@ -1,63 +1,59 @@
 
-<!-- ░▒▓█ NEKOKO-INSPIRED PROFILE █▓▒░ -->
-<div align="center">
-  
-<!-- ASCII ART CON ESTILO KAWAIICORE -->
-<pre>
-⢀⣴⣾⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆
-⠀⠀⠀⠀⠀(◕ᴗ◕✿)⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
-⣠⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣄
-█▀▀ █░█ █▀▀ █▀█ █▀▀ ▀█▀ █▀▀ █▀█   █▄░█ █▀▀ █▀▀ █▀▀
-█▄▄ █▀█ ██▄ █▀▄ █▄▄ ░█░ ██▄ █▀▄   █░▀█ █▄█ ██▄ ██▄
+<!-- ASCII HACKER ART CON DETALLES TELECOM -->
+<pre align="center">
+ ░▒▓█▓▒░░▒▓█▓▒░01100010011010010110111001100001011100100111100100100001▒▓█▓▒░  
+⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀HACKER & TELECOM ENGINEER⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠃⠀⠀0100001101101001011000100110010101110010011100110110010101100111011101010111001001101001011101000111100101110100011011110110111000100001
+░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░010000010111001001110100011101010111001001101111▒▓█▓▒░
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣶⣦⡀⠀⠀⠀⠀  █▀▀ █░█ █▀▀ █▀█ █▀▀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀  █▄▄ █▀█ ██▄ █▀▄ ██▄
+⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀  
 </pre>
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
-## 🌸 **Sobre Mí** <sub><sup>[🎵 Hurry Up Tomorrow](https://open.spotify.com/album/3rehesLQoJRonofHk1AmXh)</sup></sub>
-```ascii
-(∩･ω･)⊃━☆ﾟ.*  𝙃𝙖𝙘𝙠𝙚𝙧 𝙚𝙩𝙞𝙘𝙤 & 𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙖𝙙𝙤𝙧 𝙙𝙚 𝙧𝙚𝙙𝙚𝙨
-   ❖ 𝙄𝙣𝙨𝙥𝙞𝙧𝙖𝙘𝙞ó𝙣: 𝘼𝙡𝙗𝙪𝙢 "𝙃𝙪𝙧𝙧𝙮 𝙐𝙥 𝙏𝙤𝙢𝙤𝙧𝙧𝙤𝙬" 𝙙𝙚 𝙐𝙘𝙝𝙪 𝙉𝙚𝙠𝙤𝙠𝙤 
-   ❖ 𝙁𝙤𝙘𝙤: 𝘾++ 𝙮 𝘼𝙣á𝙡𝙞𝙨𝙞𝙨 𝙙𝙚 𝙥𝙧𝙤𝙩𝙤𝙘𝙤𝙡𝙤𝙨 𝙙𝙚 𝙘𝙤𝙢𝙪𝙣𝙞𝙘𝙖𝙘𝙞ó𝙣
-   ❖ 𝙈𝙤𝙩𝙩𝙤: "𝘾𝙤𝙙𝙚𝙖 𝙘𝙤𝙢𝙤 𝙨𝙞 𝙣𝙤 𝙝𝙪𝙗𝙞𝙚𝙧𝙖 𝙢𝙖ñ𝙖𝙣𝙖" 🌀
+## SOBRE MÍ
+```
+  ░▒▓██► ESTUDIANTE DE TELECOMUNICACIONES Y HACKING ETICO
+  ░▒▓██► OBJETIVO: CIBERSEGURIDAD Y DESARROLLO DE REDES SEGURAS
+  ░▒▓██► PASIONES: CAFÉ - CÓDIGO - VIDEOJUEGOS
+  ░▒▓██► APRENDIENDO: C++ | ACTIVE DIRECTORY
 ```
 
-### 📊 **Estadísticas** <sub><sup>🎧 [Escuchar álbum](https://open.spotify.com/album/3rehesLQoJRonofHk1AmXh)</sup></sub>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
 [![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&layout=compact&theme=radical&hide_border=true&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
 
-```ascii
-⤷ 𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜í𝙖𝙨 𝙪𝙨𝙖𝙙𝙖𝙨 𝙚𝙣 𝙢𝙞 𝙫𝙚𝙧𝙨𝙞ó𝙣 𝙙𝙚 "𝘾𝙮𝙗𝙚𝙧 𝙏𝙤𝙢𝙤𝙧𝙧𝙤𝙬":
-   ◈ 𝘾++ ▸ 𝘼𝙣á𝙡𝙞𝙨𝙞𝙨 𝙙𝙚 𝙥𝙖𝙦𝙪𝙚𝙩𝙚𝙨 𝙚𝙣 𝙩𝙞𝙚𝙢𝙥𝙤 𝙧𝙚𝙖𝙡
-   ◈ 𝙋𝙮𝙩𝙝𝙤𝙣 ▸ 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙯𝙖𝙘𝙞ó𝙣 𝙙𝙚 𝙥𝙚𝙣𝙩𝙚𝙨𝙩𝙞𝙣𝙜
-   ◈ 𝙒𝙞𝙧𝙚𝙨𝙝𝙖𝙧𝙠 ▸ 𝘿𝙚𝙘𝙤𝙙𝙞𝙛𝙞𝙘𝙖𝙘𝙞ó𝙣 𝙙𝙚 𝙩𝙧á𝙛𝙞𝙘𝙤 𝙚𝙣𝙘𝙧𝙞𝙥𝙩𝙖𝙙𝙤
-```
+</div>
 
-### 🛠️ **Tec Stack**
+### TECNOLOGÍAS
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-8aadf4?style=for-the-badge&logo=cplusplus&logoColor=1e1e2e">
-  <img src="https://img.shields.io/badge/Python-91d7e3?style=for-the-badge&logo=python&logoColor=1e1e2e">
-  <img src="https://img.shields.io/badge/Network%20Security-ee99a0?style=for-the-badge&logo=cloudflare&logoColor=1e1e2e">
-  <img src="https://img.shields.io/badge/Spotify%20API-f5a97f?style=for-the-badge&logo=spotify&logoColor=1e1e2e">
+  <img src="https://img.shields.io/badge/C++-1e1e2e?style=flat&logo=c%2B%2B&logoColor=8aadf4">
+  <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat&logo=python&logoColor=91d7e3">
+  <img src="https://img.shields.io/badge/Kali_Linux-1e1e2e?style=flat&logo=kalilinux&logoColor=ee99a0">
+  <img src="https://img.shields.io/badge/Bash-1e1e2e?style=flat&logo=gnu-bash&logoColor=a6da95">
+  <img src="https://img.shields.io/badge/Redes-1e1e2e?style=flat&logo=cisco&logoColor=f5a97f">
 </p>
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gradient0.png" width="100%">
+### ÚLTIMAS REPRODUCCIONES
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=caelestii&background=1e1e2e&text=8aadf4&bars=91d7e3&width=100%)](https://www.last.fm/user/caelestii)
 
-### 🌐 **Contacto**
+### CONTACTO
 <p align="center">
   <a href="mailto:aarturonavass@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-8aadf4?style=for-the-badge&logo=protonmail&logoColor=1e1e2e">
+    <img src="https://img.shields.io/badge/EMAIL-1e1e2e?style=flat&logo=protonmail&logoColor=8aadf4">
   </a>
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM?si=7d2c5c8a9b7d4f9d">
-    <img src="https://img.shields.io/badge/🎧_Hacker_Playlist-91d7e3?style=for-the-badge&logo=spotify&logoColor=1e1e2e">
+  <a href="https://tryhackme.com/p/caelesti">
+    <img src="https://img.shields.io/badge/TRYHACKME-1e1e2e?style=flat&logo=tryhackme&logoColor=91d7e3">
+  </a>
+  <a href="https://app.hackthebox.com/profile/2061857">
+    <img src="https://img.shields.io/badge/HACKTHEBOX-1e1e2e?style=flat&logo=hackthebox&logoColor=ee99a0">
   </a>
 </p>
 
-<!-- FOOTER CON REFERENCIA AL ÁLBUM -->
+<!-- FOOTER CATPPUCCIN -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ae/0f/00/ae0f002d39e0c7a3a5e3f8d8f8d5e8e9.gif" width="200">
-  <br><sub>"𝘾𝙤𝙙𝙚𝙖𝙣𝙙𝙤 𝙝𝙖𝙘𝙞𝙖 𝙚𝙡 𝙛𝙪𝙩𝙪𝙧𝙤 𝙘𝙤𝙣𝙚" 🌌</sub>
+  <sub>▬▬ι═══════ﺤ  -═══════ι▬▬</sub>
 </div>
-</div>
-
