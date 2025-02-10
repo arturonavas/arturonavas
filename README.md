@@ -1,26 +1,56 @@
-<!-- ASCII ART HACKER KAWAII -->
+
+<!-- ASCII HACKER ART -->
 <pre align="center">
- ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░  
-⣿⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣿⣿⣿  𝔥𝔞𝔠𝔨𝔢𝔯 𝔟𝔶 𝔥𝔢𝔞𝔯𝔱  
-⣿⣿⣿⣿⣿⠃⠀⠀(◕ᴗ◕✿)⠀⠀⠀♡𓂃 ࣪ ˖  [𝒶𝓇𝓉𝓊𝓇ℴ 𝓃𝒶𝓋𝒶𝓈]  
-░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░  
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣾⣿⣿⣿⣿⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿[̲̅a̲̅][̲̅r̲̅][̲̅t̲̅][̲̅u̲̅][̲̅r̲̅][̲̅o̲̅]⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣸⣿⣿⣿⣿⠟⠛⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠻⣿⣿⣿⣿⡄⠀⠀⠀⠀
+⠀⠀⠀⢀⣿⣿⣿⣿⣏⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣹⣿⣿⣿⣿⡀⠀⠀⠀
+⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀
+⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀
 </pre>
 
-<img src="https://i.pinimg.com/originals/6e/0f/2d/6e0f2d9a6a95ac4a0a513c0a06acba7d.gif" width="100%">
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
-## 🌙 Sobre mí
+## 🔐 𝕊𝕠𝕓𝕣𝕖 𝕞í
+<pre>
+(∩^o^)⊃━☆ﾟ.*  𝙀𝙩𝙞𝙘𝙤 𝙝𝙖𝙘𝙠𝙚𝙧 𝙮 𝙖𝙪𝙩𝙤𝙙𝙞𝙙𝙖𝙘𝙩𝙖
+   ❖ 𝙁𝙤𝙧𝙢𝙖𝙘𝙞ó𝙣: 𝙋𝙚𝙣𝙩𝙚𝙨𝙩𝙞𝙣𝙜 𝙮 𝙖𝙣á𝙡𝙞𝙨𝙞𝙨 𝙙𝙚 𝙫𝙪𝙡𝙣𝙚𝙧𝙖𝙗𝙞𝙡𝙞𝙙𝙖𝙙𝙚𝙨
+   ❖ 𝙊𝙗𝙟𝙚𝙩𝙞𝙫𝙤: 𝘾𝙞𝙗𝙚𝙧𝙨𝙚𝙜𝙪𝙧𝙞𝙙𝙖𝙙 𝙮 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙖 𝙞𝙣𝙫𝙚𝙧𝙨𝙖
+   ❖ 𝙋𝙖𝙨𝙞𝙤𝙣𝙚𝙨: ☕ 𝘾𝙖𝙛é 𝙘𝙤𝙣 𝙝𝙪𝙚𝙡𝙡𝙖𝙨 𝙙𝙚 𝙤𝙯𝙤 & 𝙂𝙖𝙩𝙤𝙨 𝙘𝙞𝙗𝙚𝙧𝙥𝙪𝙣𝙠
+</pre>
 
-( ˘▽˘)っ♨  𝙝𝙖𝙘𝙠𝙞𝙣𝙜 𝙮 𝙖𝙥𝙖𝙨𝙞𝙤𝙣𝙖𝙙𝙤 𝙙𝙚 𝙡𝙖 𝙘𝙞𝙗𝙚𝙧𝙨𝙚𝙜𝙪𝙧𝙞𝙙𝙖𝙙
+### 📈 𝔼𝕤𝕥𝕒𝕕í𝕤𝕥𝕚𝕔𝕒𝕤 𝕔𝕠𝕟 ℂ𝕒𝕥𝕡𝕡𝕦𝕔𝕔𝕚𝕟
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
 
-   💻 𝙀𝙨𝙩𝙪𝙙𝙞𝙖𝙣𝙙𝙤 ➺  𝙥𝙚𝙣𝙩𝙚𝙨𝙩𝙞𝙣𝙜 𝙮 𝙖𝙣á𝙡𝙞𝙨𝙞𝙨 𝙙𝙚 𝙢𝙖𝙡𝙬𝙖𝙧𝙚
-   ☕ 𝙁𝙖𝙣 𝙙𝙚𝙡 ➺  𝙘𝙖𝙛é 𝙘𝙤𝙣 𝙡𝙚𝙘𝙝𝙚 𝙮 𝙡𝙤𝙨 𝙜𝙖𝙩𝙤𝙨
+[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&layout=compact&theme=radical&hide_border=true&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://i.pinimg.com/originals/ae/0f/00/ae0f002d39e0c7a3a5e3f8d8f8d5e8e9.gif" width="100%">
-🔮 Estadísticas Catppuccin
+### 🗝️ 𝕋𝕖𝕔𝕟𝕠𝕝𝕠𝕘í𝕒𝕤
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-8aadf4?style=for-the-badge&logo=python&logoColor=1e1e2e">
+  <img src="https://img.shields.io/badge/Kali Linux-91d7e3?style=for-the-badge&logo=kalilinux&logoColor=1e1e2e">
+  <img src="https://img.shields.io/badge/Bash-ee99a0?style=for-the-badge&logo=gnu-bash&logoColor=1e1e2e">
+  <img src="https://img.shields.io/badge/Wireshark-f5a97f?style=for-the-badge&logo=wireshark&logoColor=1e1e2e">
+  <img src="https://img.shields.io/badge/SQL Injection-a6da95?style=for-the-badge&logo=sqlite&logoColor=1e1e2e">
+</p>
 
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gradient0.png" width="100%">
 
-Lenguajes más usados
-🛠️ Hacking Toolkit
-<p align="center"> <img src="https://img.shields.io/badge/Python-89b4fa?style=flat&logo=python&logoColor=1e1e2e"> <img src="https://img.shields.io/badge/Linux-f5c2e7?style=flat&logo=linux&logoColor=1e1e2e"> <img src="https://img.shields.io/badge/Bash-94e2d5?style=flat&logo=gnu-bash&logoColor=1e1e2e"> <img src="https://img.shields.io/badge/Wireshark-f38ba8?style=flat&logo=wireshark&logoColor=1e1e2e"> <img src="https://img.shields.io/badge/SQL-f9e2af?style=flat&logo=mysql&logoColor=1e1e2e"> </p><img src="https://i.pinimg.com/originals/2e/8b/3c/2e8b3c4d4c9e5e5e5e5e5e5e5e5e5e5.gif" width="100%">
-📡 Contacto
-<p align="center"> <a href="mailto:tu@email.com"> <img src="https://img.shields.io/badge/Email-eba0ac?style=for-the-badge&logo=protonmail&logoColor=1e1e2e"> </a> <a href="https://tryhackme.com/p/[tu_usuario]"> <img src="https://img.shields.io/badge/TryHackMe-f5a97f?style=for-the-badge&logo=tryhackme&logoColor=1e1e2e"> </a> <a href="https://www.hackthebox.com/profile/caelestii"> <img src="https://img.shields.io/badge/HackTheBox-89dceb?style=for-the-badge&logo=bluetooth&logoColor=1e1e2e"> </a> </p><!-- FOOTER CON GATO HACKER --><div align="center"> <img src="https://i.pinimg.com/originals/3b/2f/3d/3b2f3d9c9e5e5e5e5e5e5e5e5e5e5e5.gif" width="200"> <br>✨ 𝓒𝓸𝓭𝓮 𝔀𝓲𝓽𝓱 𝓶𝓸𝓮 𝓮𝓷𝓮𝓻𝓰𝔂 ✨ </div> ```
+### 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕠
+<p align="center">
+  <a href="mailto:tu_email@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8aadf4?style=for-the-badge&logo=protonmail&logoColor=1e1e2e">
+  </a>
+  <a href="https://tryhackme.com/p/[TU_USER]">
+    <img src="https://img.shields.io/badge/TryHackMe-91d7e3?style=for-the-badge&logo=tryhackme&logoColor=1e1e2e">
+  </a>
+  <a href="https://app.hackthebox.com/profile/[TU_ID]">
+    <img src="https://img.shields.io/badge/HackTheBox-ee99a0?style=for-the-badge&logo=hackthebox&logoColor=1e1e2e">
+  </a>
+</p>
+
+<!-- FOOTER CATPPUCCIN -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/trans.png" width="200">
+  <br><sub>𝒯𝒽𝑒𝓂𝑒 𝒷𝓎 <a href="https://github.com/catppuccin">Catppuccin</a></sub>
+</div>
