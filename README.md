@@ -21,13 +21,9 @@
    ❖ 𝕰𝖓 𝖆𝖕𝖗𝖊𝖓𝖉𝖎𝖟𝖆𝖏𝖊: 𝕮++ 𝖞 𝕬𝖓𝖆𝖑𝖎𝖘𝖎𝖘 𝖉𝖊 𝖙𝖗𝖆𝖋𝖎𝖈𝖔 𝖓𝖊𝖙𝖜𝖔𝖗𝖐
 ```
 
-<div align="left">
-
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&layout=compact&theme=radical&hide_border=true&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ### 🗝️ 𝕋𝕖𝕔𝕟𝕠𝕝𝕠𝕘í𝕒𝕤
 <p align="center">
@@ -41,19 +37,14 @@
 
 ### 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕠
 <p align="center">
-  <a href="mailto:tu_email@protonmail.com">
+  <a href="mailto:aarturonavass@gmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8aadf4?style=for-the-badge&logo=protonmail&logoColor=1e1e2e">
   </a>
-  <a href="https://tryhackme.com/p/[TU_USER]">
+  <a href="https://tryhackme.com/p/caelesti">
     <img src="https://img.shields.io/badge/TryHackMe-91d7e3?style=for-the-badge&logo=tryhackme&logoColor=1e1e2e">
   </a>
-  <a href="https://app.hackthebox.com/profile/[TU_ID]">
+  <a href="https://app.hackthebox.com/profile/2061857">
     <img src="https://img.shields.io/badge/HackTheBox-ee99a0?style=for-the-badge&logo=hackthebox&logoColor=1e1e2e">
   </a>
 </p>
-
-<!-- FOOTER CATPPUCCIN -->
-<div align="center">
-  <br><sub>𝒯𝒽𝑒𝓂𝑒 𝒷𝓎 <a href="https://github.com/catppuccin">Catppuccin</a></sub>
-</div>
 
