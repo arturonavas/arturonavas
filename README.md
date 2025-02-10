@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
-## 🔐 𝕊𝕠𝕓𝕣𝕖 𝕞í
+## 🌙 Sobre mí
 ```ascii
 (∩･ω･)⊃━☆ﾟ.* 𝖍𝖆𝖈𝖐𝖊𝖗 & 𝖊𝖘𝖙𝖚𝖉𝖎𝖆𝖓𝖙𝖊 𝖉𝖊 𝖙𝖊𝖑𝖊𝖈𝖔𝖒𝖚𝖓𝖎𝖈𝖆𝖈𝖎𝖔𝖓𝖊𝖘
    ❖ 𝕺𝖇𝖏𝖊𝖙𝖎𝖛𝖔: 𝕮𝖎𝖇𝖊𝖗𝖘𝖊𝖌𝖚𝖗𝖎𝖉𝖆𝖉 𝖞 𝖉𝖊𝖘𝖆𝖗𝖗𝖔𝖑𝖑𝖔 𝖉𝖊 𝖗𝖊𝖉𝖊𝖘 𝖘𝖊𝖌𝖚𝖗𝖆𝖘
@@ -21,8 +21,7 @@
    ❖ 𝕰𝖓 𝖆𝖕𝖗𝖊𝖓𝖉𝖎𝖟𝖆𝖏𝖊: 𝕮++ 𝖞 𝕬𝖓𝖆𝖑𝖎𝖘𝖎𝖘 𝖉𝖊 𝖙𝖗𝖆𝖋𝖎𝖈𝖔 𝖓𝖊𝖙𝖜𝖔𝖗𝖐
 ```
 
-### 📈 𝔼𝕤�𝕒𝕕í𝕤𝕥𝕚𝕔𝕒𝕤 ℂ𝕖𝕟𝕥𝕣𝕒𝕕𝕒𝕤
-<div align="center">
+<div align="left">
 
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
 
