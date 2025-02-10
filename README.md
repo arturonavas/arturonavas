@@ -9,16 +9,15 @@
 <img src="https://i.pinimg.com/originals/6e/0f/2d/6e0f2d9a6a95ac4a0a513c0a06acba7d.gif" width="100%">
 
 ## 🌙 Sobre mí
-```ascii
-( ˘▽˘)っ♨  𝙀𝙩𝙞𝙘𝙖 𝙙𝙚 𝙝𝙖𝙘𝙠𝙞𝙣𝙜 𝙮 𝙖𝙥𝙖𝙨𝙞𝙤𝙣𝙖𝙙𝙤 𝙙𝙚 𝙡𝙖 𝙘𝙞𝙗𝙚𝙧𝙨𝙚𝙜𝙪𝙧𝙞𝙙𝙖𝙙
+
+( ˘▽˘)っ♨  𝙝𝙖𝙘𝙠𝙞𝙣𝙜 𝙮 𝙖𝙥𝙖𝙨𝙞𝙤𝙣𝙖𝙙𝙤 𝙙𝙚 𝙡𝙖 𝙘𝙞𝙗𝙚𝙧𝙨𝙚𝙜𝙪𝙧𝙞𝙙𝙖𝙙
 
    💻 𝙀𝙨𝙩𝙪𝙙𝙞𝙖𝙣𝙙𝙤 ➺  𝙥𝙚𝙣𝙩𝙚𝙨𝙩𝙞𝙣𝙜 𝙮 𝙖𝙣á𝙡𝙞𝙨𝙞𝙨 𝙙𝙚 𝙢𝙖𝙡𝙬𝙖𝙧𝙚
-   ☕ 𝙁𝙖𝙣 𝙙𝙚𝙡 ➺  𝙘𝙖𝙛é 𝙘𝙤𝙣 𝙡𝙚𝙘𝙝𝙚 𝙫𝙚𝙜𝙚𝙩𝙖𝙡 𝙮 𝙡𝙤𝙨 𝙜𝙖𝙩𝙤𝙨 𝙣𝙚𝙜𝙧𝙤𝙨
+   ☕ 𝙁𝙖𝙣 𝙙𝙚𝙡 ➺  𝙘𝙖𝙛é 𝙘𝙤𝙣 𝙡𝙚𝙘𝙝𝙚 𝙮 𝙡𝙤𝙨 𝙜𝙖𝙩𝙤𝙨
 
 <img src="https://i.pinimg.com/originals/ae/0f/00/ae0f002d39e0c7a3a5e3f8d8f8d5e8e9.gif" width="100%">
 🔮 Estadísticas Catppuccin
 
-Estadísticas GitHub
 
 Lenguajes más usados
 🛠️ Hacking Toolkit
