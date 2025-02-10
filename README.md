@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ASCII HACKER ART CON DETALLES TELECOM -->
 <pre align="center">
  ░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░▒▓████████▓▒░  
@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Networking-a6da95?style=for-the-badge&logo=cisco&logoColor=1e1e2e">
 </p>
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gradient0.png" width="100%">
 
 ### 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕠
 <p align="center">
@@ -58,4 +57,4 @@
 <div align="center">
   <br><sub>𝒯𝒽𝑒𝓂𝑒 𝒷𝓎 <a href="https://github.com/catppuccin">Catppuccin</a></sub>
 </div>
-```
+
