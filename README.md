@@ -7,8 +7,6 @@
 ░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░ ░▒▓██████▓▒░  
 </pre>
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
-
 ## 🔐 𝕊𝕠𝕓𝕣𝕖 𝕞í
 <pre>
 (∩^o^)⊃━☆ﾟ.*  𝙀𝙩𝙞𝙘𝙤 𝙝𝙖𝙘𝙠𝙚𝙧 𝙮 𝙖𝙪𝙩𝙤𝙙𝙞𝙙𝙖𝙘𝙩𝙖
@@ -17,13 +15,13 @@
    ❖ 𝙋𝙖𝙨𝙞𝙤𝙣𝙚𝙨: ☕ 𝘾𝙖𝙛é 𝙘𝙤𝙣 𝙝𝙪𝙚𝙡𝙡𝙖𝙨 𝙙𝙚 𝙤𝙯𝙤 & 𝙂𝙖𝙩𝙤𝙨 𝙘𝙞𝙗𝙚𝙧𝙥𝙪𝙣𝙠
 </pre>
 
-<p align="left">
+<div align="left">
 [![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
-<p align="right">
+<div align="right">
 [![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&layout=compact&theme=radical&hide_border=true&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
@@ -37,7 +35,6 @@
   <img src="https://img.shields.io/badge/SQL Injection-a6da95?style=for-the-badge&logo=sqlite&logoColor=1e1e2e">
 </p>
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
 
 ### 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕠
@@ -55,6 +52,5 @@
 
 <!-- FOOTER CATPPUCCIN -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
   <br><sub>𝒯𝒽𝑒𝓂𝑒 𝒷𝓎 <a href="https://github.com/catppuccin">Catppuccin</a></sub>
 </div>
