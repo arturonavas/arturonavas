@@ -33,8 +33,11 @@
 </p>
 
 ### ✧･ﾟ: *✧ 𝙼𝚄𝚂𝙸𝙲𝙰 *:･ﾟ✧
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e)
+<div align="center">
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e&width=600)
+
+</div>
 
 ### ✧･ﾟ: *✧ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾 *:･ﾟ✧
 <p align="center">
