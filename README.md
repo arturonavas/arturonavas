@@ -34,10 +34,10 @@
   <img src="https://img.shields.io/badge/Redes-f5a97f?style=for-the-badge&logo=cisco&logoColor=1e1e2e">
 </p>
 
-### ✧ 𝙼𝚄𝚂𝙸𝙲𝙰
+## ✧ 𝙼𝚄𝚂𝙸𝙲𝙰
 <div align="center">
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e&width=600&loved=true&show_user=header&count=8&footer_style=compact_stats)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e&width=550&loved=true&show_user=header&count=8&footer_style=compact_stats)
 
 </div>
 
