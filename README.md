@@ -37,7 +37,7 @@
 ### ✧ 𝙼𝚄𝚂𝙸𝙲𝙰
 <div align="center">
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e&width=600)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e&width=600&loved=true&show_user=header&count=8&footer_style=compact_stats)
 
 </div>
 
