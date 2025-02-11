@@ -9,17 +9,19 @@
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
 ## ✧ 𝚂𝙾𝙱𝚁𝙴 𝙼𝙸
-```ascii
+<pre align="center">
 »» ◌ 𝙴𝚜𝚝𝚞𝚍𝚒𝚊𝚗𝚝𝚎 𝚍𝚎 𝚃𝚎𝚕𝚎𝚌𝚘𝚖 𝚢 𝙷𝚊𝚌𝚔𝚒𝚗𝚐 𝙴𝚝𝚒𝚌𝚘 
 »» ◌ 𝙾𝚋𝚓𝚎𝚝𝚒𝚟𝚘: 𝙲𝚛𝚎𝚊𝚛 𝚛𝚎𝚍𝚎𝚜 𝚜𝚎𝚐𝚞𝚛𝚊𝚜 𝚌𝚘𝚗 C++｡.
 »» ◌ 𝙿𝚊𝚜𝚒𝚘𝚗𝚎𝚜: ☕ 𝙲𝚊𝚏é | 🎮 𝚅𝚒𝚍𝚎𝚘𝚓𝚞𝚎𝚐𝚘𝚜 𝚟𝚒𝚗𝚝𝚊𝚐𝚎
 »» ◌ 𝙰𝚌𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎: 𝙰𝚙𝚛𝚎𝚗𝚍𝚒𝚎𝚗𝚍𝚘 𝙰𝚌𝚝𝚒𝚟𝚎 𝙳𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚢 𝚢 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚒𝚗𝚐 (≧ω≦)
-```
+</pre>
 
 <div align="center">
-
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
-[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&layout=compact&theme=radical&hide_border=true&width=300&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5)](https://github.com/anuraghazra/github-readme-stats)
+  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5&custom_title=Estadísticas&layout=compact&width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&theme=radical&hide_border=true&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5&layout=compact&width=400&langs_count=6" />
+</div>
 
 </div>
 
