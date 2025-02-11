@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
-## 𝚂𝙾𝙱𝚁𝙴 𝙼𝙸
+## ✧ 𝚂𝙾𝙱𝚁𝙴 𝙼𝙸
 ```ascii
 »» ◌ 𝙴𝚜𝚝𝚞𝚍𝚒𝚊𝚗𝚝𝚎 𝚍𝚎 𝚃𝚎𝚕𝚎𝚌𝚘𝚖 𝚢 𝙷𝚊𝚌𝚔𝚒𝚗𝚐 𝙴𝚝𝚒𝚌𝚘 
 »» ◌ 𝙾𝚋𝚓𝚎𝚝𝚒𝚟𝚘: 𝙲𝚛𝚎𝚊𝚛 𝚛𝚎𝚍𝚎𝚜 𝚜𝚎𝚐𝚞𝚛𝚊𝚜 𝚌𝚘𝚗 C++｡.
@@ -23,7 +23,7 @@
 
 </div>
 
-### ✧･ﾟ: *✧ 𝚃𝙴𝙲𝙽𝙾𝙻𝙾𝙶𝙸𝙰𝚂 *:･ﾟ✧
+## ✧ 𝚃𝙴𝙲𝙽𝙾𝙻𝙾𝙶𝙸𝙰𝚂
 <p align="center">
   <img src="https://img.shields.io/badge/C++-8aadf4?style=for-the-badge&logo=cplusplus&logoColor=1e1e2e">
   <img src="https://img.shields.io/badge/Python-91d7e3?style=for-the-badge&logo=python&logoColor=1e1e2e">
@@ -32,14 +32,14 @@
   <img src="https://img.shields.io/badge/Redes-f5a97f?style=for-the-badge&logo=cisco&logoColor=1e1e2e">
 </p>
 
-### ✧･ﾟ: *✧ 𝙼𝚄𝚂𝙸𝙲𝙰 *:･ﾟ✧
+### ✧ 𝙼𝚄𝚂𝙸𝙲𝙰
 <div align="center">
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e&width=600)
 
 </div>
 
-### ✧･ﾟ: *✧ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾 *:･ﾟ✧
+## ✧ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾
 <p align="center">
   <a href="mailto:aarturonavass@gmail.com">
     <img src="https://img.shields.io/badge/📮Email-8aadf4?style=for-the-badge&logo=protonmail&logoColor=1e1e2e">
