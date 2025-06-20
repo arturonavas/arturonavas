@@ -17,7 +17,7 @@
 <div align="center">
   
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5&custom_title=Estadísticas&layout=compact&width=400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arturonavas&theme=radical&show_icons=true&hide_border=true&bg_color=30,1e1e2e,24273a&title_color=8aadf4&icon_color=91d7e3&text_color=cad3f5&custom_title=Statistics&layout=compact&width=400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturonavas&theme=radical&hide_border=true&bg_color=45,1e1e2e,363a4f&title_color=8aadf4&text_color=cad3f5&layout=compact&width=400&langs_count=6" />
 </div>
 
@@ -44,13 +44,15 @@
 
 ## ✧ CONTACT ME!
 <p align="center">
-  <a href="mailto:aarturonavass@gmail.com">
+  <a href="mailto:aarturonavass@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📮Email-8aadf4?style=for-the-badge&logo=protonmail&logoColor=1e1e2e">
   </a>
-  </a>
+  <a href="https://www.linkedin.com/in/arturonavas-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
-<!-- KAWAII DIVIDER -->
+
 <div align="center">
   <sub>･ﾟ✧*:･ﾟ✧･ﾟ✧*:･ﾟ✧ 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚕𝚘𝚟𝚎 ✧･ﾟ: *✧･ﾟ: *✧</sub>
 </div>
