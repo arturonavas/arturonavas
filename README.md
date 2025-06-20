@@ -1,19 +1,17 @@
 
-<!-- KAWAII CYBERPUNK ASCII HEADER -->
-<pre align="center">
-　　＿ʕ•ᴥ•ʔ＿/￣￣￣￣￣￣￣￣￣￣￣
-⠀⠀𝙘𝙮𝙗𝙚𝙧security! ╰(◕ヮ◕╰)
-　ﾟ｡·𓆩♡𓆪·｡ﾟ 0100001101111001011000100110010101110010011100110110010101100011 ﾟ｡·𓆩♡𓆪·｡ﾟ
-</pre>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/energon-a-secas/ma-slack-emojis/refs/heads/master/emojis/development/gopher_dancing.gif" width="150">
+</div>
+
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%">
 
-## ✧ 𝚂𝙾𝙱𝚁𝙴 𝙼𝙸
+## ✧ ABOUT ME
 <pre align="center">
-»» ◌ 𝙴𝚜𝚝𝚞𝚍𝚒𝚊𝚗𝚝𝚎 𝚍𝚎 𝚃𝚎𝚕𝚎𝚌𝚘𝚖 𝚢 𝙷𝚊𝚌𝚔𝚒𝚗𝚐 𝙴𝚝𝚒𝚌𝚘 
-»» ◌ 𝙾𝚋𝚓𝚎𝚝𝚒𝚟𝚘:  C++｡.
-»» ◌ 𝙿𝚊𝚜𝚒𝚘𝚗𝚎𝚜: ☕ 𝙲𝚊𝚏é | 🎮 𝚅𝚒𝚍𝚎𝚘𝚓𝚞𝚎𝚐𝚘𝚜 𝚟𝚒𝚗𝚝𝚊𝚐𝚎
-»» ◌ 𝙰𝚌𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎: 𝙰𝚙𝚛𝚎𝚗𝚍𝚒𝚎𝚗𝚍𝚘 𝙰𝚌𝚝𝚒𝚟𝚎 𝙳𝚒𝚛𝚎𝚌𝚝𝚘𝚛𝚢 𝚢 𝙿𝚎𝚗𝚝𝚎𝚜𝚝𝚒𝚗𝚐 (≧ω≦)
+»» ◌ Telecommunications engineering student with a passion for Linux and open‑source tools  
+»» ◌ Career goal: DevOps Engineer (*≧ω≦*)  
+»» ◌ Passions: ☕ Coffee | 🎮 Video Games | ⚙️ Golang  
+»» ◌ Currently: Learning Go, Cloud Services and managing my own homelab for container orchestration!
 </pre>
 
 <div align="center">
@@ -25,32 +23,31 @@
 
 </div>
 
-## ✧ 𝚃𝙴𝙲𝙽𝙾𝙻𝙾𝙶𝙸𝙰𝚂
+## ✧ TECHNOLOGIES
 <p align="center">
   <img src="https://img.shields.io/badge/C++-8aadf4?style=for-the-badge&logo=cplusplus&logoColor=1e1e2e">
-  <img src="https://img.shields.io/badge/Python-91d7e3?style=for-the-badge&logo=python&logoColor=1e1e2e">
-  <img src="https://img.shields.io/badge/Kali Linux-ee99a0?style=for-the-badge&logo=kalilinux&logoColor=1e1e2e">
-  <img src="https://img.shields.io/badge/Bash-a6da95?style=for-the-badge&logo=gnu-bash&logoColor=1e1e2e">
-  <img src="https://img.shields.io/badge/Redes-f5a97f?style=for-the-badge&logo=cisco&logoColor=1e1e2e">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Networks-f5a97f?style=for-the-badge&logo=cisco&logoColor=1e1e2e">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
-## ✧ 𝙼𝚄𝚂𝙸𝙲𝙰
+## ✧ MUSIC
 <div align="center">
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=caelestii&bg_color=1e1e2e&width=550&loved=true&show_user=header&count=8&footer_style=compact_stats)
 
 </div>
 
-## ✧ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾
+## ✧ CONTACT ME!
 <p align="center">
   <a href="mailto:aarturonavass@gmail.com">
     <img src="https://img.shields.io/badge/📮Email-8aadf4?style=for-the-badge&logo=protonmail&logoColor=1e1e2e">
   </a>
-  <a href="https://tryhackme.com/p/caelesti">
-    <img src="https://img.shields.io/badge/🛡️Tryhackme-91d7e3?style=for-the-badge&logo=tryhackme&logoColor=1e1e2e">
-  </a>
-  <a href="https://app.hackthebox.com/profile/2061857">
-    <img src="https://img.shields.io/badge/💻HTB-ee99a0?style=for-the-badge&logo=hackthebox&logoColor=1e1e2e">
   </a>
 </p>
 
