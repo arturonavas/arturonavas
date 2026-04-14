@@ -9,7 +9,6 @@
 ## ✧ ABOUT ME
 <pre align="center">
 »» ◌ Telecommunications engineering student with a passion for Linux and open‑source tools  
-»» ◌ Career goal: DevOps Engineer (*≧ω≦*)  
 »» ◌ Passions: ☕ Coffee | 🎮 Video Games | ⚙️ Golang  
 »» ◌ Currently: Learning Go, Cloud Services and managing my own homelab for container orchestration!
 </pre>
